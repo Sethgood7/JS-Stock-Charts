@@ -1,5 +1,5 @@
 async function main() {
-    const apiKey = 'bc244596af1445e39c15923344142997';
+    const apiKey = '69603966b2664b3e9c4a1f329b1742c5';
     const symbols = ['GME', 'MSFT', 'DIS', 'BNTX'];
     const interval = '1day';
 
